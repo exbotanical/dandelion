@@ -1,0 +1,13 @@
+{
+  "name": "libdandelion",
+  "version": "0.0.1",
+  "author": "Matthew Zito",
+  "repo": "exbotanical/libdandelion",
+  "license": "MIT",
+  "description": "",
+  "keywords": [],
+  "src": ["include/libdandelion.h"],
+  "development": {
+    "thlorenz/tap.c": "*"
+  }
+}
