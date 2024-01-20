@@ -6,7 +6,7 @@
   "license": "MIT",
   "description": "",
   "keywords": [],
-  "src": ["include/libdandelion.h"],
+  "src": ["include/libdandelion.h", "src/filter.c"],
   "development": {
     "thlorenz/tap.c": "*"
   }
